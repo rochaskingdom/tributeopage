@@ -1,0 +1,22 @@
+
+#main{
+  background: #FFF3E1;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+p {
+  texte-align: center;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+#tribute-info {
+  text-align: justify;
+}
+img {
+  display: block; 
+  height: auto;
+  max-width: 100%;
+  margin: auto;
+}
